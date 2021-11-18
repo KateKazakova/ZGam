@@ -18,8 +18,8 @@
  cmake --build .;
 ```
 
-###Functions included in the package
-1. RfactorMC() - allows to calculate the correlation factor on MC
-2. RfactorDataCounting() - allows to calculate the correlation factor with Data-Driven method
-3. Leakage() - allows to define the leakage parameters
-4. CentralValueCounter() - allows to find the number of background events in signal region induced by jet->γ misidentification
+### Functions included in the package
+* RfactorMC() - allows to calculate the correlation factor on MC
+* RfactorDataCounting() - allows to calculate the correlation factor with Data-Driven method
+* Leakage() - allows to define the leakage parameters
+* CentralValueCounter() - allows to find the number of background events in signal region induced by jet->γ misidentification
